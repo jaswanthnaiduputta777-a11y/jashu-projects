@@ -1,8 +1,37 @@
-# jashu-projects
-Hi I'm Jashu.
-B Tech CSE Student. Currently Learning Java, Python, DSA and GitHub. Building my Coding projects and improving my programming skills. 
-## my goals 
-Learn programming 
-Build useful projects 
-Contribute to open source projects
-Grow as a software developer 
+# Jashu Projects
+
+Hi! I'm Jashu 
+
+I'm a B.Tech CSE student learning programming and building projects to improve my skills.
+
+##  Projects
+
+### Java
+- HelloWorld.java
+- Calculator.java
+- StudentGrade.java
+- UserInput.java
+- SimpleATM.java
+
+### Python
+- hello.py
+- number_guessing.py
+- calculator.py
+
+## Currently Learning
+
+- Java
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+
+## Goals
+
+- Build real-world projects
+- Learn DSA
+- Contribute to open-source projects
+- Become a better software developer
+
+---
+
+   Thanks for visiting my repository!
